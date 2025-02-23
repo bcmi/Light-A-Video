@@ -85,7 +85,7 @@ We show more results in the [Project Page](https://bujiazi.github.io/light-a-vid
     <img src='__assets__/pipeline.png'/>
 </div>
 
-Light-A-Video leverages the the capabilities of image relighting models and VDM motion priors to achieve temporally consistent video relighting. 
+Light-A-Video leverages the capabilities of image relighting models and VDM motion priors to achieve temporally consistent video relighting. 
 By integrating the **Consistent Light Attention** to stabilize lighting source generation and employ the **Progressive Light Fusion** strategy
 for smooth appearance transitions.
 
