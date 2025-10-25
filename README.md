@@ -157,11 +157,13 @@ python lav_cog_relight.py --config "configs/cog_relight/bear.yaml"
 
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝 
 ```bibtex
-@article{zhou2025light,
-  title={Light-A-Video: Training-free Video Relighting via Progressive Light Fusion},
-  author={Zhou, Yujie and Bu, Jiazi and Ling, Pengyang and Zhang, Pan and Wu, Tong and Huang, Qidong and Li, Jinsong and Dong, Xiaoyi and Zang, Yuhang and Cao, Yuhang and others},
-  journal={arXiv preprint arXiv:2502.08590},
-  year={2025}
+@InProceedings{Zhou_2025_ICCV,
+    author    = {Zhou, Yujie and Bu, Jiazi and Ling, Pengyang and Zhang, Pan and Wu, Tong and Huang, Qidong and Li, Jinsong and Dong, Xiaoyi and Zang, Yuhang and Cao, Yuhang and Rao, Anyi and Wang, Jiaqi and Niu, Li},
+    title     = {Light-A-Video: Training-free Video Relighting via Progressive Light Fusion},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {13315-13325}
 }
 ```
 
